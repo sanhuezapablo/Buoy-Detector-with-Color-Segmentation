@@ -8,7 +8,7 @@ Since the video is shot underwater, conventional segmentation techniques involvi
 
 In such a scenario, we “learn” the color distributions of the buoys and use that learned model to segment them. We obtain a tight segmentation of each buoy for the entire video sequence by applying a tight contour (in the respective color of the buoy being segmented) around each buoy.
 
-Please refer to [Project Report](https://github.com/adheeshc/Buoy-Detection-using-Color-Segmentation/blob/master/Report/Final%20Report.pdf) for further description
+Please refer to [Project Report](https://github.com/sanhuezapablo/Buoy-Detection-using-Color-Segmentation/blob/master/Report/Final%20Report.pdf) for further description
 
 ### Preparing the Input
 
