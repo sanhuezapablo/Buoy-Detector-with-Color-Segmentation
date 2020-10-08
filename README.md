@@ -98,10 +98,10 @@ variances of the N D-dimensional Gaussian.
 
 ## **FILE DESCRIPTION**
 
-- Code Folder/[Cropping.py](https://github.com/adheeshc/Buoy-Detection-using-Color-Segmentation/blob/master/Code/cropping.py) - This file is used for cropping out our original dataset
-- Code Folder/[EM.py](https://github.com/adheeshc/Buoy-Detection-using-Color-Segmentation/blob/master/Code/EM.py) - This file is used for implementing the EM for a random set of datapoints
-- Code Folder/[Project_3.py](https://github.com/adheeshc/Buoy-Detection-using-Color-Segmentation/blob/master/Code/Project_3.py) - This is the main file that implements the contours onto the buoys
-- Code Folder/[(OPTIONAL) multivariate_gaussian.py](https://github.com/adheeshc/Buoy-Detection-using-Color-Segmentation/blob/master/Code/(OPTIONAL)%20multivariate_gaussian.py) - Here I implemented a 3D gaussian to fit the dataset
+- Code Folder/[Cropping.py](https://github.com/sanhuezapablo/Buoy-Detector-with-Color-Segmentation/blob/master/Code/cropping.py) - This file is used for cropping out our original dataset
+- Code Folder/[EM.py](https://github.com/sanhuezapablo/Buoy-Detector-with-Color-Segmentation/blob/master/Code/EM.py) - This file is used for implementing the EM for a random set of datapoints
+- Code Folder/[Project_3.py](https://github.com/sanhuezapablo/Buoy-Detector-with-Color-Segmentation/blob/master/Code/Project_3.py) - This is the main file that implements the contours onto the buoys
+- Code Folder/[(OPTIONAL) multivariate_gaussian.py](https://github.com/sanhuezapablo/Buoy-Detector-with-Color-Segmentation/blob/master/Code/(OPTIONAL)%20multivariate_gaussian.py) - Here I implemented a 3D gaussian to fit the dataset
 
 - Datasets folder - Contains 1 video input file, all the frames of the video and 3 folders containing images for Green, Yellow and Red Buoys 
 
@@ -109,7 +109,7 @@ variances of the N D-dimensional Gaussian.
 
 - Output folder - Contains output videos
 
-- Report folder - Contains [Project Report](https://github.com/adheeshc/Buoy-Detection-using-Color-Segmentation/blob/master/Report/Final%20Report.pdf)
+- Report folder - Contains [Project Report](https://github.com/sanhuezapablo/Buoy-Detector-with-Color-Segmentation/blob/master/Report/Final%20Report.pdf)
 
 ## **RUN INSTRUCTIONS**
 
